@@ -6,7 +6,6 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: The first computer bug was actually a real moth which got stuck in a Harvard computer.
 
-General Overview
 ![](https://github-readme-stats.vercel.app/api?username=ivory-26&show_icons=true&locale=en&theme=tokyonight)
 
 
