@@ -6,9 +6,11 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: The first computer bug was actually a real moth which got stuck in a Harvard computer.
 
+General Overview
 ![](https://raw.githubusercontent.com/ivory-26/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/ivory-26/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
+Languages used
 ![](https://raw.githubusercontent.com/ivory-26/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/ivory-26/github-stats/master/generated/languages.svg#gh-light-mode-only)
 <!---
