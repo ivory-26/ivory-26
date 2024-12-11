@@ -1,6 +1,4 @@
-<div style="text-style:bold>
-  <p>👋 Hi there, I’m Sahil Karpe</p>
-</div>
+-👋 Hi there, I’m Sahil Karpe
 - 👀 I’m interested in coding, anime, movies and tv-shows. I mean everything on the internet.
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on Wetall (Project Ironflake) and my other projects which I will do after I have learned Javascript. 
