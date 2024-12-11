@@ -8,10 +8,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=ivory-26&show_icons=true&locale=en&theme=tokyonight)
 
-
-Languages used
-![](https://raw.githubusercontent.com/ivory-26/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ivory-26/github-stats/master/generated/languages.svg#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivory-26)](https://github.com/ivory-26/github-readme-stats)
 <!---
 ivory-26/ivory-26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
