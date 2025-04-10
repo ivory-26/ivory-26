@@ -20,6 +20,7 @@
 <a href="https://twitter.com/sahil_karpe07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahil_karpe07" height="30" width="40" /></a>
 <a href="https://instagram.com/sahil_26.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahil_26.01" height="30" width="40" /></a>
 <a href="https://discord.gg/Q7Sem7St" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Q7Sem7St" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/sahilkarpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sahilkarpe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
