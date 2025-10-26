@@ -13,6 +13,12 @@
 
 - ⚡ Fun fact **The first computer bug was actually a real moth which got stuck in a Harvard computer.**
 
+<h3 align="left">My Projects:</h3>
+
+- 🌐 **[WeTall](https://github.com/SC136/WeTall)** - A collaborative platform for sharing and discovering content
+- 📺 **[YouTube Clone](https://github.com/ivory-26/YouTube-Clone)** - A clone of YouTube built to practice web development skills
+- 🎵 **[SIH Tarang](https://github.com/ivory-26/SIH-Tarang)** - Smart India Hackathon project
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sahil_karpe07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahil_karpe07" height="30" width="40" /></a>
