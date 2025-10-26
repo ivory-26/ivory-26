@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=ivory-26" alt="ivory-26" /> </a> </p>
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)-->
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ivory-26)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="https://twitter.com/sahil_karpe07" target="blank"><img src="https://img.shields.io/twitter/follow/sahil_karpe07?logo=twitter&style=for-the-badge" alt="sahil_karpe07" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript,C,Python**
