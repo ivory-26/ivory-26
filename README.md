@@ -17,7 +17,7 @@
 
 - 🌐 **[WeTall](https://github.com/SC136/WeTall)** - A collaborative platform for sharing and discovering content
 - 📺 **[YouTube Clone](https://github.com/ivory-26/YouTube-Clone)** - A clone of YouTube built to practice web development skills
-- 🎵 **[SIH Tarang](https://github.com/ivory-26/SIH-Tarang)** - Smart India Hackathon project
+- 🎵 **[SIH Tarang](https://github.com/ivory-26/SIH--TARANG)** - Smart India Hackathon project
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
