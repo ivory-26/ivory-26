@@ -17,6 +17,7 @@
 
 - 🌐 **[WeTall](https://github.com/SC136/WeTall)** - A collaborative platform for sharing and discovering content
 - 📺 **[YouTube Clone](https://github.com/ivory-26/YouTube-Clone)** - A clone of YouTube built to practice web development skills
+- 🚰 **[Hyrdo-Tech] (https://github.com/ivory-26/hydro-tech)** - Vibe coded landing page for a local company.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
